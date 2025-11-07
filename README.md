@@ -29,10 +29,6 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="350" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+%7C+Laravel+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </div>
 
@@ -42,6 +38,12 @@ I'm a **Software Engineer** with **5+ years of experience** specializing in **La
 
 I'm passionate about building **high-performance, secure, and scalable backend systems** using modern technologies. My expertise includes developing **RESTful APIs**, implementing **DevOps practices**, and leading **digital transformation projects**.
 
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **Key Highlights:**
 - 🎯 Leading technical teams and managing complex projects
 - 🚀 Building scalable web applications with Laravel & PHP
@@ -49,7 +51,14 @@ I'm passionate about building **high-performance, secure, and scalable backend s
 - 📊 Optimizing database performance and system architecture
 - 🌐 Developing and integrating RESTful APIs
 
-</div>
+</td>
+<td width="50%" valign="middle" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="220" style="border-radius: 10px; margin: 10px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+
+</td>
+</tr>
+</table>
 
 ---
 
