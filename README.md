@@ -54,7 +54,7 @@ I'm passionate about building **high-performance, secure, and scalable backend s
 </td>
 <td width="50%" valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" width="220" style="border-radius: 10px; margin: 10px 0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" style="width: 75%; height: auto; margin: 0; display: block; border: none; outline: none;" />
 
 </td>
 </tr>
